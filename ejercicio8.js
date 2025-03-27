@@ -1,5 +1,4 @@
-/*8. Calcular el promedio de una serie de números predefinidos.
-*/
+/*8. Calcular el promedio de una serie de números predefinidos.*/
 let numeros = [10, 20, 30, 40, 50]; 
 
 let suma = 0; 

@@ -1,6 +1,6 @@
 /*9. Buscar el número mayor en un array dado.*/
 
-let numeros = [10, 20, 30, 40, 50];
+let numeros = [10, 60, 30, 40, 50];
 
 let mayor = numeros[0];
 for (let i = 1; i < numeros.length; i++) {
